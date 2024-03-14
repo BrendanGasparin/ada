@@ -29,7 +29,7 @@ figure {
   text-align: center;
   margin: 0 auto 35px auto;
   padding-bottom: 10px;
-  width: 350px;
+  width: 325px;
   background-color: #ffffff;
   border: 2px solid black;
 }
@@ -37,7 +37,7 @@ figure {
 .portrait-one {
     display: block;
     margin: 10px auto 10px auto;
-    width: 300px;
+    width: 275px;
     padding: 10px;
     background-color: burlywood;
     border: 2px solid black;
