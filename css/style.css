@@ -39,10 +39,10 @@ figure {
 }
 
 .portrait-one {
-    display: block;
-    margin: 10px auto 10px auto;
-    width: 275px;
-    padding: 10px;
-    background-color: burlywood;
-    border: 2px solid black;
+  display: block;
+  margin: 10px auto 10px auto;
+  max-width: 275px;
+  padding: 10px;
+  background-color: burlywood;
+  border: 2px solid black;
 }
