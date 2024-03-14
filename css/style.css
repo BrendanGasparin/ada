@@ -1,7 +1,20 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  background-color: #d6cca9;
+}
+
 h1 {
   font-family: Rochester, cursive;
   text-align: center;
   margin-bottom: 10px;
+  font-size: 3rem;
+}
+
+figcaption {
+  font-style: italic;
 }
 
 .dates {
@@ -13,10 +26,14 @@ h1 {
 
 .figure-one {
   text-align: center;
+  margin-bottom: 35px;
 }
 
 .portrait-one {
     display: block;
     margin: 10px auto 10px auto;
     width: 300px;
+    padding: 10px;
+    background-color: burlywood;
+    border: 2px solid black;
 }
