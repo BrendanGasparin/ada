@@ -45,6 +45,20 @@ figure {
   border: 2px solid black;
 }
 
+footer {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 20px;
+  border-top: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer > p {
+  margin: 0;
+  display: inline-block;
+}
+
 .portrait-one {
   display: block;
   margin: 10px auto 10px auto;
