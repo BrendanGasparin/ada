@@ -45,6 +45,16 @@ figure {
   border: 2px solid black;
 }
 
+.quote-block {
+  background-color: #ffffff;
+  border: 2px solid black;
+  padding: 1rem;
+}
+
+quote:before, quote:after {
+  content: "\"";
+}
+
 footer {
   background-color: #ffffff;
   margin: 0;
