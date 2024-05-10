@@ -20,6 +20,11 @@ h1 {
   padding: 20px 0;
 }
 
+.content {
+  margin: 0 auto;
+  width: 80%;
+}
+
 figcaption {
   font-style: italic;
 }
@@ -59,7 +64,7 @@ quote:before, quote:after {
 footer {
   background-color: #ffffff;
   margin: 0;
-  padding: 20px;
+  padding: 20px 10%;
   border-top: 2px solid black;
   /* display: flex;
   justify-content: space-between; */
